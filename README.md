@@ -4,6 +4,12 @@ Pocket Saathi is a full-stack web application designed to break down language ba
 
 ---
 
+## Live Demo
+
+https://pocket-saathi-294341285044.asia-south1.run.app
+
+---
+
 ## ✨ Features
 
 - **Profile-Oriented Translation (Personas):** Tailor simplified document summaries for Student, Senior Citizen, Rural Farmer, Family Head, or Small Business Owner profiles.
@@ -72,7 +78,3 @@ Pocket Saathi is a full-stack web application designed to break down language ba
 - `.env.example` - Sandbox environment templates.
 - `metadata.json` - AI Studio applet specifications.
 
----
-
-## 🛡️ License
-This project is licensed under the MIT License.
