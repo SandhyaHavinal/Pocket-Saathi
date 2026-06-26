@@ -1,4 +1,4 @@
-# Pocket Saathi (Your Empathetic AI Document Companion) 🇮🇳
+# Pocket Saathi (Your Empathetic AI Document Companion)
 
 Pocket Saathi is a full-stack web application designed to break down language barriers and decode complex official terminology in Indian documents (bills, prescription slips, pension notices, scholarship letters, and tax notices) into plain, gentle regional instructions.
 
