@@ -1,0 +1,6 @@
+{
+  "name": "Pocket Saathi",
+  "description": "A multilingual AI document companion that helps users understand bills, prescriptions, scholarship notices, government forms, and banking documents in simple language.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
